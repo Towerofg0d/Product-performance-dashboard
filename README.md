@@ -11,7 +11,7 @@ Clean, business‑focused layout
 
 Tools Used
 
-Power BI — data modelling, DAX, visualisation
+Power BI — data modelling, visualisation
 SQL — data cleaning and transformation
 Excel — initial data preparation
 
